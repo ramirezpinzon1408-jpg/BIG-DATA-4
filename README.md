@@ -2,7 +2,11 @@
 ## FASE 4  
 # Consultas SQL – Proyecto Personal
 
-Este repositorio contiene diferentes consultas SQL acompañadas de imágenes que muestran el resultado visual o la filtración realizada. Cada consulta está organizada con su respectiva imagen para facilitar su comprensión.
+Este repositorio documenta una serie de consultas realizadas en **MongoDB**, utilizando una base de datos en formato JSON como fuente principal. El objetivo de este trabajo es mostrar, de manera clara y organizada, cómo se aplican diferentes tipos de filtros y búsquedas dentro de una colección utilizando las funciones propias del motor NoSQL.
+
+A lo largo del repositorio se incluyen consultas básicas y avanzadas, tales como búsquedas por municipio, entidad, departamento, tramo específico, y filtros basados en valores numéricos como GIZScore o PR. Cada consulta está acompañada de una evidencia visual en formato de imagen que permite comprender fácilmente los resultados obtenidos.
+
+Este proyecto sirve como evidencia académica y como guía de apoyo para comprender el funcionamiento de **MongoDB**, reforzando habilidades en el manejo de datos, análisis y estructuración de consultas dinámicas.
 
 ---
 
