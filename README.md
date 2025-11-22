@@ -13,7 +13,7 @@ Este repositorio contiene diferentes consultas SQL acompañadas de imágenes que
 ### 🔍 1. Buscar GIZScore mayor a 2
 Consulta diseñada para filtrar registros cuyo **GIZScore sea mayor que 2**.
 
-![Buscar GIZScore Mayor a 2](imagenes/BuscarGiZScoreMayor2.jpg)
+![Buscar GIZScore Mayor a 2](imagenes/BuscarGiZScoreMayora2.jpg)
 
 ---
 
@@ -41,7 +41,7 @@ Filtra información relacionada con un **municipio en particular**.
 ### 🛣️ 5. Buscar por tramo específico  
 Permite seleccionar un **tramo exacto** dentro del dataset.
 
-![Buscar por tramo específico](imagenes/BuscarPorTramoEspecifico.jpg)
+![Buscar por tramo específico](imagenes/BuscarPorTramoEspecífico.jpg)
 
 ---
 
