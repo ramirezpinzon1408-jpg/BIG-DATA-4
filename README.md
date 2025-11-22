@@ -21,7 +21,7 @@ Consulta diseñada para filtrar registros cuyo **GIZScore sea mayor que 2**.
 ### 🗂️ 2. Buscar por departamento
 Filtra los datos según el **departamento seleccionado**.
 
-![Buscar por departamento](Buscar por departamento.png)
+![Buscar por departamento](BuscarPordepartamento.png)
 
 ---
 
