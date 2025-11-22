@@ -12,6 +12,10 @@ Este repositorio contiene diferentes consultas SQL acompañadas de imágenes que
 Consulta diseñada para filtrar registros cuyo **GIZScore sea mayor que 2**.
 
 ![Buscar GIZScore mayor a 2](BuscarGiZScoreMayor2.png)
+<pag flotar="izquierda">
+  <imagen fuente="BuscarGiZScoreMayor2.png" ancho="500"/>
+</pag>
+
 
 ---
 
