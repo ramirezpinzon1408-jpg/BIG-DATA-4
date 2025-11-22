@@ -61,3 +61,7 @@ Filtrado de registros con **PR ≥ 10**.
 ---
 
 El desarrollo de este trabajo permitió comprender cómo MongoDB facilita el manejo de datos en entornos de Big Data gracias a su flexibilidad y rapidez para realizar consultas. A través de las búsquedas y operaciones realizadas, se evidenció la facilidad para obtener información relevante y analizar grandes volúmenes de datos sin estructuras rígidas. En conjunto, el ejercicio fortaleció el entendimiento de las ventajas de las bases de datos NoSQL y del potencial de MongoDB para proyectos que requieren escalabilidad y eficiencia.
+
+---
+
+autor: Luis Felipe Ramirez Pinzon 
